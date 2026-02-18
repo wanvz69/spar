@@ -1,0 +1,5 @@
+{
+  "name": "MLBB Sparring Registration",
+  "description": "Full-stack Mobile Legends sparring registration system with WhatsApp OTP verification and admin management.",
+  "requestFramePermissions": []
+}
